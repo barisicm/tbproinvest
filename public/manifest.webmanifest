@@ -1,0 +1,56 @@
+{
+  "name": "TB Pro Invest",
+  "short_name": "TB Pro Invest",
+  "lang": "hr-hr",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#e84444",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu914617c090be519c2d903bae48f1b594_6339_48x48_resize_lanczos_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu914617c090be519c2d903bae48f1b594_6339_72x72_resize_lanczos_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu914617c090be519c2d903bae48f1b594_6339_96x96_resize_lanczos_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu914617c090be519c2d903bae48f1b594_6339_144x144_resize_lanczos_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu914617c090be519c2d903bae48f1b594_6339_192x192_resize_lanczos_3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_hu914617c090be519c2d903bae48f1b594_6339_512x512_resize_lanczos_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
