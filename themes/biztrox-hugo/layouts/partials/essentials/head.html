@@ -1,0 +1,57 @@
+<meta charset="utf-8" />
+<title>{{ .Title | default site.Title }}</title>
+
+<!-- responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+<!-- theme meta -->
+<meta name="theme-name" content="biztrox-hugo" />
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+<!-- favicon -->
+{{ partialCached "favicon" . }}
+
+
+<!-- manifest -->
+{{ partialCached "manifest" . }}
+
+
+<!-- site verifications -->
+{{ partialCached "site-verifications.html" . }}
+
+
+<!-- opengraph and twitter card -->
+{{ partial "basic-seo.html" . }}
+
+
+<!-- custom script -->
+{{ partialCached "custom-script.html" . }}
+
+
+<!-- google analytics -->
+{{ template "_internal/google_analytics.html" . }}
+
+
+<!-- google tag manager -->
+{{ partialCached "gtm.html" . }}
+
+
+<!-- matomo analytics -->
+{{ partialCached "matomo-analytics.html" . }}
+
+
+<!--  Baidu analytics -->
+{{ partialCached "baidu-analytics.html" . }}
+
+
+<!-- Plausible Analytics -->
+{{ partialCached "plausible-analytics.html" . }}
+
+
+<!-- Counter Analytics -->
+{{ partialCached "counter-analytics.html" . }}
+
+
+<!-- Crisp Chat -->
+{{ partialCached "crisp-chat.html" . }}

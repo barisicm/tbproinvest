@@ -1,0 +1,18 @@
+<article>
+  <div class="row border rounded m-2">
+    <div class="col-sm-12 col-md-4 ms-0 p-0">
+      {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title  "Class" `card-img-top` "Class" `rounded`) }}
+    </div>
+    <div class="col-sm-12 col-md-8 pt-3 ps-4">
+      <h3 class="h5">
+        <a href="{{ .Permalink }}" class="font-primary text-dark">{{ .Title }}</a>
+      </h3>
+      {{with .Params.Author}} by
+      <a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . | title }}
+      </a>{{end}}
+      <div class="d-flex pb-2">
+        <span class="">{{ .PublishDate.Format "02 Jan" }}</span>
+      </div>
+    </div>
+  </div>
+</article>

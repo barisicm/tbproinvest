@@ -1,0 +1,40 @@
+<!-- Full screen modal -->
+<div class="modal fade" id="exampleModalXl" tabindex="-1" aria-labelledby="exampleModalXlLabel" aria-modal="true" role="dialog">
+  <div class="modal-dialog modal-l">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-4" id="exampleModalXlLabel">Odricanje odgovornosti</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Kompletan sadržaj je edukativnog i informativnog karaktera.
+          Ništa od sadržaja nije financijski ili kripto savjet. Ulaganje je rizično i može prouzročiti gubitak sredstava. Napravite vlastito istraživanje i sami donesite odluke.
+          Ako prihvaćate navedeno odaberite za nastavak.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="acceptLiability()">Prihvaćam</button>
+        <button type="button" class="btn btn-primary" onclick="redirectToGoogle()">Odbijam</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  let myModal = new bootstrap.Modal(document.getElementById('exampleModalXl'), {
+    backdrop: true
+  })
+  const liabilityConsent = localStorage.getItem("liabilityConsent");
+  console.log(liabilityConsent)
+  if (liabilityConsent === "true") {
+  } else {
+    myModal.show()
+  }
+
+  function acceptLiability() {
+    localStorage.setItem("liabilityConsent", "true")
+  }
+
+  function redirectToGoogle() {
+    window.location.href = "https://google.com"
+  }
+</script>

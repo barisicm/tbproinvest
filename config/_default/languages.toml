@@ -1,0 +1,13 @@
+################ Croatian language ##################
+[hr]
+languageName = "Hr"
+languageCode = "hr-hr"
+contentDir = "content/croatian"
+weight = 1
+
+################ English language ##################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2

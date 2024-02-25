@@ -1,0 +1,56 @@
+- id: navigation_button
+  translation: Zatražite Ponudu
+- id: navigation_button_link
+  translation: kontakt
+- id: services
+  translation: Usluge
+- id: quick_links
+  translation: Poveznice
+- id: contact_us
+  translation: Kontaktirajte Nas
+- id: contact_form
+  translation: Kontakt Forma
+- id: submit
+  translation: Pošalji
+- id: buy_now
+  translation: Kupite Sada
+- id: service_brochure
+  translation: Brošura
+- id: download_pdf
+  translation: Preuzmite pdf
+- id: opening_hours
+  translation: Radno Vrijeme
+- id: contact_info
+  translation: Kontakt Informacije
+- id: follow_on_social
+  translation: Društvene Mreže
+- id: cv
+  translation: Životopis
+- id: overview
+  translation: Pregled
+- id: project_name
+  translation: Ime Projekta
+- id: live_demo
+  translation: Demonistracija uživo
+- id: case_study
+  translation: Complete Case Study
+- id: free_consultation
+  translation: Zatražite besplatnu konzultaciju
+- id: all
+  translation: Sve
+- id: posted_by
+  translation: Objavio
+- id: share
+  translation: Podijeli
+- id: call_now
+  translation: Nazovite nas
+- id: read_more
+  translation: Pročitajte više
+- id: category
+  translation: Kategorija
+- id: categories
+  translation: Kategorije
+- id: tags
+  translation: Oznake
+- id: published_on
+  translation: "Objavljeno:"

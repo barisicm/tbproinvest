@@ -1,0 +1,55 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[main]]
+name = "Services"
+url = "service/"
+weight = 2
+
+[[main]]
+name = "News"
+url = "news/"
+weight = 3
+
+[[main]]
+name = "Cryptocurrencies"
+url = "cryptocurrencies/"
+weight = 4
+
+[[main]]
+name = "Investing"
+url = "investing/"
+weight = 5
+
+
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
+# footer menu
+#[[footer]]
+#name = "Legal"
+#url = "#"
+#weight = 1
+
+#[[footer]]
+#name = "Sitemap"
+#url = "#"
+#weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 3
+
+#[[footer]]
+#name = "Terms & Conditions"
+#url = "#"
+#weight = 4
