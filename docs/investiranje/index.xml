@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Investiranje on TB Pro Invest</title>
+    <link>/investiranje/</link>
+    <description>Recent content in Investiranje on TB Pro Invest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hr-hr</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="/investiranje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Money and Money</title>
+      <link>/investiranje/money-and-money/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>/investiranje/money-and-money/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance My Business</title>
+      <link>/investiranje/finance-my-business/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>/investiranje/finance-my-business/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>New Hugo Post</title>
+      <link>/investiranje/new-hugo-post/</link>
+      <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
+      
+      <guid>/investiranje/new-hugo-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

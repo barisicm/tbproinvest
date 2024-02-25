@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on TB Pro Invest</title>
+    <link>/en/service/</link>
+    <description>Recent content in Service on TB Pro Invest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="/en/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Trading</title>
+      <link>/en/service/advanced-trading/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>/en/service/advanced-trading/</guid>
+      <description>Advanced Trading Education on different types and methods of trading on stock markets.</description>
+    </item>
+    
+    <item>
+      <title>Basics of Technical Analysis</title>
+      <link>/en/service/technical-analysis/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>/en/service/technical-analysis/</guid>
+      <description>Basics of Technical Analysis Drawing and recognizing charts, interpreting them based on the past movement direction of a particular investment to predict its future movement and direction.</description>
+    </item>
+    
+    <item>
+      <title>Personal finances</title>
+      <link>/en/service/personal-finances/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>/en/service/personal-finances/</guid>
+      <description>Personal Finance Management Are you finding it difficult to manage your own finances?</description>
+    </item>
+    
+    <item>
+      <title>Education on Stock Market Trading</title>
+      <link>/en/service/market-education/</link>
+      <pubDate>Tue, 25 Sep 2018 15:51:35 +0600</pubDate>
+      
+      <guid>/en/service/market-education/</guid>
+      <description>Education on Stock Market Trading We offer services to assist you in opening and setting up your account, providing you with all the necessary information, how to buy and sell, and all the options you can use.</description>
+    </item>
+    
+    <item>
+      <title>Investing for Beginners</title>
+      <link>/en/service/investing-for-beginners/</link>
+      <pubDate>Tue, 25 Sep 2018 15:51:35 +0600</pubDate>
+      
+      <guid>/en/service/investing-for-beginners/</guid>
+      <description>Investing for Beginners How and with what resources to start, and everything related to investing.</description>
+    </item>
+    
+  </channel>
+</rss>
