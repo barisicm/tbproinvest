@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investment on TB Pro Invest</title>
-    <link>/en/categories/investment/</link>
+    <link>https://tbproinvest.com/en/categories/investment/</link>
     <description>Recent content in Investment on TB Pro Invest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Sep 2018 11:35:34 +0600</lastBuildDate><atom:link href="/en/categories/investment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Sep 2018 11:35:34 +0600</lastBuildDate><atom:link href="https://tbproinvest.com/en/categories/investment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Hugo Post</title>
-      <link>/en/news/new-hugo-post/</link>
+      <link>https://tbproinvest.com/en/news/new-hugo-post/</link>
       <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
       
-      <guid>/en/news/new-hugo-post/</guid>
+      <guid>https://tbproinvest.com/en/news/new-hugo-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TB Pro Invest</title>
-    <link>/categories/</link>
+    <link>https://tbproinvest.com/categories/</link>
     <description>Recent content in Categories on TB Pro Invest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hr-hr</language>
-    <lastBuildDate>Wed, 07 Feb 2024 11:10:46 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Feb 2024 11:10:46 +0600</lastBuildDate><atom:link href="https://tbproinvest.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing Guidance</title>
-      <link>/categories/marketing-guidance/</link>
+      <link>https://tbproinvest.com/categories/marketing-guidance/</link>
       <pubDate>Wed, 07 Feb 2024 11:10:46 +0600</pubDate>
       
-      <guid>/categories/marketing-guidance/</guid>
+      <guid>https://tbproinvest.com/categories/marketing-guidance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profit &amp; Growth</title>
-      <link>/categories/profit-growth/</link>
+      <link>https://tbproinvest.com/categories/profit-growth/</link>
       <pubDate>Mon, 05 Feb 2024 11:10:07 +0600</pubDate>
       
-      <guid>/categories/profit-growth/</guid>
+      <guid>https://tbproinvest.com/categories/profit-growth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investment</title>
-      <link>/categories/investment/</link>
+      <link>https://tbproinvest.com/categories/investment/</link>
       <pubDate>Sun, 04 Feb 2024 11:35:34 +0600</pubDate>
       
-      <guid>/categories/investment/</guid>
+      <guid>https://tbproinvest.com/categories/investment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company News</title>
-      <link>/categories/company-news/</link>
+      <link>https://tbproinvest.com/categories/company-news/</link>
       <pubDate>Fri, 02 Feb 2024 11:07:10 +0600</pubDate>
       
-      <guid>/categories/company-news/</guid>
+      <guid>https://tbproinvest.com/categories/company-news/</guid>
       <description></description>
     </item>
     

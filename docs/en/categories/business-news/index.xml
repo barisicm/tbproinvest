@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business News on TB Pro Invest</title>
-    <link>/en/categories/business-news/</link>
+    <link>https://tbproinvest.com/en/categories/business-news/</link>
     <description>Recent content in Business News on TB Pro Invest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="/en/categories/business-news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="https://tbproinvest.com/en/categories/business-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cool the Audits</title>
-      <link>/en/news/cool-the-audits/</link>
+      <link>https://tbproinvest.com/en/news/cool-the-audits/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/en/news/cool-the-audits/</guid>
+      <guid>https://tbproinvest.com/en/news/cool-the-audits/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
