@@ -23,6 +23,7 @@
     ".idea": true,
     ".github": true,
     "resources": true,
-    ".vscode": true
+    ".vscode": true,
+    "public": true
   }   
 }
