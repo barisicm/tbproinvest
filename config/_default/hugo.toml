@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://tbproinvest.com/"
 defaultContentLanguage = "hr"
 title = "TB Pro Invest"
 theme = "biztrox-hugo"
