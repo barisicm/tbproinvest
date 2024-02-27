@@ -12,7 +12,10 @@ Otvaranje markdown editora:
 
 Spremanje promjena:
 
-Kliknuti na ikonicu za kontrolu podataka. Na plavi `Commit` gumb kliknuti na strelicu. 
-Zatim kliknuti na `Commit & Push`
+- Kliknuti na `Source Control` ikonicu.
+- U `Message` input polje, napisati ukratko koje su promjene dodane.
+- Zatim na plavi `Commit` gumb kliknuti na strelicu. 
+- Zatim kliknuti na `Commit & Push`
+- Na idućem boxu reći `Yes to all`
 
 Promjene bi se automatski trebale vidjeti na `tbproinvest.com` webstranici kroz 10 minuta.
