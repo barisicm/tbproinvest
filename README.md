@@ -7,6 +7,9 @@ go: https://go.dev/dl/
 hugo-extended: https://gohugo.io/installation  
 vscode: https://code.visualstudio.com/download  
 
+Povlačenje promjena sa servera:
+U donjem lijevom ćošku kraj master-a se treba kliknuti na kotačić da bi se povukle promjene sa servera
+
 Otvaranje markdown editora:
 `Ctrl+Shift+V`
 
