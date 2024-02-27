@@ -14,7 +14,7 @@ slider:
     button:
       enable : true
       label: Više detalja
-      link : "about/"
+      link : "usluge/"
       
   # slider item loop
   - bg_image : images/banner/banner-2.jpg
@@ -27,7 +27,7 @@ slider:
     button:
       enable : true
       label: Više detalja
-      link : "about/"
+      link : "usluge/"
       
   # slider item loop
   - bg_image : images/banner/banner-3.jpg
@@ -40,7 +40,7 @@ slider:
     button:
       enable : true
       label: Više detalja
-      link : "about/"
+      link : "usluge/"
       
   # slider item loop
 #  - bg_image : images/banner/banner-4.jpg
