@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "archetypes":true,
+    "node_modules":true,
+    ".gitignore": true,
+    "config": true,
+    "docs": true,
+    ".hugo_build.lock":true,
+    "themes": true,
+    "CNAME": true,
+    "go.mod": true,
+    "go.sum": true,
+    "hugo_stats.json": true,
+    "hugo.toml": true,
+    "package-lock.json": true,
+    "postcss.config.js": true,
+    ".idea": true,
+    ".github": true
+  }   
+}
