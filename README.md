@@ -13,6 +13,10 @@ Otvaranje markdown editora:
 Otvaranje terminala:
 `Ctrl + ¸` (lijevo od broja 1 na tipkovnici)
 
+Pokretanje hugo servera:
+- nakon otvaranja terminala
+- upisati `hugo server`
+
 Spremanje promjena:
 
 - Kliknuti na `Source Control` ikonicu.
