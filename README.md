@@ -10,6 +10,9 @@ vscode: https://code.visualstudio.com/download
 Otvaranje markdown editora:
 `Ctrl+Shift+V`
 
+Otvaranje terminala:
+`Ctrl + ¸` (lijevo od broja 1 na tipkovnici)
+
 Spremanje promjena:
 
 - Kliknuti na `Source Control` ikonicu.
