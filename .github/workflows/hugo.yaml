@@ -19,7 +19,7 @@ jobs:
         hugo-version: 'latest'
 
     - name: Build Site
-      run: hugo --minify --destination docs --baseURL "${{ steps.pages.outputs.base_url }}/
+      run: hugo --minify --destination docs --baseURL "${{ steps.pages.outputs.base_url }}/"
 
     - name: Commit changes
       run: |
