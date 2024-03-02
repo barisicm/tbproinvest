@@ -4,7 +4,7 @@ bg_image: images/background/page-title.jpg
 date: 2024-02-04T11:10:07+06:00
 description : "This is meta description"
 author:
-image: images/investiranje/kljucevi-za-investiranje.jpg
+image: images/investiranje/kontrola-investiranje.jpg
 categories: ["Finance"]
 tags: ["Education","Investing"]
 type: post

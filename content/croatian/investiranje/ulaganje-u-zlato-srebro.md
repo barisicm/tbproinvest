@@ -1,5 +1,5 @@
 ---
-title: "Ulaganje u zlato i srebro DA ili NE"
+title: "Ulaganje u zlato i srebro DA ili NE?"
 bg_image: images/background/page-title.jpg
 date: 2024-02-06T11:10:07+06:00
 description : "This is meta description"
