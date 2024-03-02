@@ -1,7 +1,7 @@
 ---
 title: "India and russia: new-old economic friends"
 bg_image: images/background/page-title.jpg
-date: 2024-02-21T11:10:07+06:00
+date: 2024-02-08T11:10:07+06:00
 description: "India and russia: new-old economic friends"
 author: 
 image: images/vijesti/indija-i-rusija-novi-stari.jpg
