@@ -5,8 +5,8 @@ date: 2024-02-06T11:10:07+06:00
 description: "Chainlink (LINK) unlocks tokens worth 340 million USD"
 author: 
 image: images/kripto-vijesti/chainlink.jpg
-categories: ["Altcoins","Blockchain","Binance","Chainlink"]
-tags: ["Bull market","Binance","Chainlink","Smart contract"]
+categories: ["Altcoins","Blockchain","Binance"]
+tags: ["Bull market","Binance"]
 type: post
 ---
 This cryptocurrency, which aims to incentivize a global network of computers by providing reliable information from around the world via smart contracts on the blockchain, recently unlocked over 19 million LINK tokens - equivalent to over $340 million.

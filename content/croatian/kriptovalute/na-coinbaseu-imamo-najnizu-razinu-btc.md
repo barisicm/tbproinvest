@@ -6,7 +6,7 @@ description : "Coinbase najniža razina bitcoina od 2015 godine"
 author: 
 image: images/kripto-vijesti/coinbase.jpg
 categories: ["Kripto burza"]
-tags: ["Bull market","Burza","Bitcoin","Kripto"]
+tags: ["Bull market","Bitcoin"]
 type: post
 ---
 Jedan od razloga rasta cijene

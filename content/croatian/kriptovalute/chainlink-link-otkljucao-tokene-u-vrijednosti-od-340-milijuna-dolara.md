@@ -5,8 +5,8 @@ date: 2024-02-06T11:10:07+06:00
 description : "LINK otključao tokene u vrijednosti 340 milijarde doalra"
 author: 
 image: images/kripto-vijesti/chainlink.jpg
-categories: ["Altcoins","Blockchain","Binance","Chainlink"]
-tags: ["Bull market", "Binance", "Chainlink", "Pametni ugovori"]
+categories: ["Altcoins"]
+tags: ["Bull market"]
 type: post
 ---
 
