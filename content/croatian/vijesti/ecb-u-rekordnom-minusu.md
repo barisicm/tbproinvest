@@ -2,7 +2,7 @@
 title: "ECB u rekordnom minusu"
 bg_image: images/vijesti/ecb-u-rekordnom-minusu.jpg
 date: 2024-02-22T11:10:07+06:00
-description : "ECB u rekordnom minusu"
+description: "ECB u rekordnom minusu"
 author: 
 image: images/vijesti/ecb-u-rekordnom-minusu.jpg
 categories: ["Financije"]
