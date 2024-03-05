@@ -6,12 +6,12 @@
     <div class="row">
       <div class="col-lg-8 py-100">
         <div class="border rounded bg-white">
-          {{ partial "image.html" (dict "Src" .Params.image "Alt" "blog-image" "Class" `w-100 rounded-top`) }}
+          {{ partial "image.html" (dict "Src" .Params.image "Alt" "blog-image" "Class" `w-100 rounded-top fixed-dimensions-2`) }}
           <div class="p-4">
             <h3>{{ .Title | markdownify }}</h3>
             <ul class="list-inline d-block pb-4 border-bottom mb-3">
               <!--<li class="list-inline-item text-color">{{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
--->              <li class="list-inline-item text-color">{{ i18n "published_on" }} {{ .PublishDate.Format "02 Jan" }}</li>
+-->              <li class="list-inline-item text-color">{{ i18n "published_on" }} {{ .PublishDate.Format "2006-01-02" }}</li>
               <li class="list-inline-item text-color">{{ i18n "category" }}:
                 {{ range .Params.Categories }}
                 <a class="text-primary" href="{{ `categories/` | relLangURL }}{{ . | urlize }}"> {{ . | humanize }}</a>
@@ -38,8 +38,8 @@
                 </ul>
               </div>
             </div>
-<!--            <div class="col-lg-5 mb-4 mb-lg-0">
-              {{ "&lt;!&ndash; share-icon &ndash;&gt;" | safeHTML }}
+            <div class="col-lg-5 mb-4 mb-lg-0">
+              {{ "<!-- share-icon -->" | safeHTML }}
               <div class="d-flex">
                 <span class="fw-light mt-2 me-3">{{ i18n "share" }}:</span>
                 <ul class="list-inline d-inline-block">
@@ -58,7 +58,7 @@
                   </li>
                 </ul>
               </div>
-            </div>-->
+            </div>
 
           </div>
         </div>

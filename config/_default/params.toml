@@ -110,8 +110,8 @@ address = "https://www.google.com/maps/embed/v1/place?q=Ul.+Hrvatske+Mladeži+28
 
 # cookies
 [cookies]
-button = "I Accept"
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "Prihvaćam / I Accept"
+content = "Ova stranica koristi kolačiće. Nastavljajući koristiti ovu stranicu, dozvoljavate njihovu uporabu. <br><br> This site uses cookies. By continuing to use this website, you agree to their use."
 enable = true
 expire_days = 2
 

@@ -3,26 +3,28 @@
     <div class="container">
       <div class="row justify-content-between">
         <div class="col-md-4">
-          <div class="mb-5 mb-md-0 text-center text-md-start">
-            <!-- logo -->
-            <a class="mb-30 d-inline-block" href="{{ site.BaseURL | relLangURL }}" style="max-width: 300px; max-height: 300px">
-              {{ if site.Params.logo_footer }}
-              {{ partial "image.html" (dict "Src" .Site.Params.logo_footer "Alt" "biztrox" "Width" .Site.Params.logo_footer_width) }}
-              {{ else }}
-              {{site.Title}}
-              {{ end }}
-            </a>
-            {{ with site.Params.footer_content }}<p class="text-white mb-30">{{ . | markdownify }}</p>{{ end }}
-            <!-- social icon -->
-            <ul class="list-inline">
-              {{ range site.Params.social }}
-              <li class="list-inline-item mb-2">
+          <div class="mb-5 mb-md-0 d-flex flex-column">
+            <div style="max-width: 300px">
+              <!-- logo -->
+              <a class="mb-30 d-inline-block" href="{{ site.BaseURL | relLangURL }}" style="max-width: 300px; max-height: 300px">
+                {{ if site.Params.logo_footer }}
+                {{ partial "image.html" (dict "Src" .Site.Params.logo_footer "Alt" "biztrox" "Width" .Site.Params.logo_footer_width) }}
+                {{ else }}
+                {{site.Title}}
+                {{ end }}
+              </a>
+              {{ with site.Params.footer_content }}<p class="text-white mb-30">{{ . | markdownify }}</p>{{ end }}
+
+              <div class="d-flex justify-content-between">
+                <!-- social icon -->
+                {{ range site.Params.social }}
                 <a class="social-icon-outline" href="{{ .link | safeURL }}" aria-label="{{.title}}">
                   <i class="{{ .icon }}"></i>
                 </a>
-              </li>
-              {{ end }}
-            </ul>
+                {{ end }}
+              </div>
+
+            </div>
           </div>
         </div>
         <!-- footer links -->
