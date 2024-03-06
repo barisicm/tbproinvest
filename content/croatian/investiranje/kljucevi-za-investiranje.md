@@ -5,8 +5,8 @@ date: 2024-02-03T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kljucevi-za-investiranje.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Strategija"]
 type: post
 ---
 **Statistika, analiza rizika, tehnička analiza i fundamentalna analiza**

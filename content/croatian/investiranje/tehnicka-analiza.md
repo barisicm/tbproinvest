@@ -5,8 +5,8 @@ date: 2024-02-05T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/tehnicka-analiza.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Trgovanje"]
 type: post
 ---
 Studija sama za sebe i vještina koja se najbolje stječe u praksi na stvarnim primjerima a ne u teoriji.

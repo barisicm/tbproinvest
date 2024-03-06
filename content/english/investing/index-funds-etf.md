@@ -1,12 +1,12 @@
 ---
-title: "Indeksni funds or ETF's"
+title: "Index funds or ETF's"
 bg_image: images/background/page-title.jpg
 date: 2024-02-05T11:10:46+06:00
 author:
 description : "This is meta description"
 image: images/investiranje/indeksni-fondovi-etf.jpg
-categories: ["Trading"]
-tags: ["Investing","Financial market","Trading"]
+categories: ["Finance","Investing"]
+tags: ["Strategy","Trading"]
 type: post
 ---
 Similar but still different. **ETF funds** are considered more accessible for entry and exit than traditional index funds.

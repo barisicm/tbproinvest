@@ -5,8 +5,8 @@ date: 2024-02-02T11:35:34+06:00
 description : "This is meta description"
 author: 
 image: images/investiranje/vlastite-investicije.jpg
-categories: ["Investiranje"]
-tags: ["Tržište","Investiranje","Kapital"]
+categories: ["Investiranje","Financije"]
+tags: ["Financijska tržišta","Strategija"]
 type: post
 ---
 Diverzifikacija u investiranju je uvijek važna i uvijek će biti potreban dobar plan i jasni ciljevi.

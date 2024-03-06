@@ -5,8 +5,8 @@ date: 2024-03-01T11:10:46+06:00
 author:
 description : "This is meta description"
 image: images/investiranje/investiranje-jednokratko-mjesecno.jpg
-categories: ["Trading"]
-tags: ["Investing","Finance market","Trading"]
+categories: ["Investing"]
+tags: ["Financial markets","Trading"]
 type: post
 ---
 Two different approaches and the question of which way is better? Both methods are good because you invest, and now which one is better for you, in this short text, we'll try to present all the advantages and disadvantages.

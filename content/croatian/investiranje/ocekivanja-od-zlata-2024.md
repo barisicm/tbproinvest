@@ -5,8 +5,8 @@ date: 2024-02-08T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/ocekivanje-od-zlata.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje","Zlato"]
+tags: ["Edukacija","Trgovanje"]
 type: post
 ---
 Svi ekonomski i geopolitički indikatori ukazuju da bi cijena zlata mogla i u novoj godini nastaviti rasti.

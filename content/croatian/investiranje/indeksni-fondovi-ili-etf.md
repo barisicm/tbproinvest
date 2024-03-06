@@ -5,8 +5,8 @@ date: 2024-02-05T11:10:46+06:00
 author:
 description : "This is meta description"
 image: images/investiranje/indeksni-fondovi-etf.jpg
-categories: ["Trgovanje"]
-tags: ["Investiranje","Financijska tržišta","Trgovanje"]
+categories: ["Financije","Investiranje"]
+tags: ["Strategija","Trgovanje"]
 type: post
 ---
 Slični ali ipak različiti. **ETF fondovi** se smatraju pristupačnijima za ulaske i izlaske nego tradicionalni indeksni fondovi.

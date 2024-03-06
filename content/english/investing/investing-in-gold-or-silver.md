@@ -5,8 +5,8 @@ date: 2024-02-06T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/ulaganje-u-zlato-srebro.jpg
-categories: ["Finance"]
-tags: ["Education","Investing",]
+categories: ["Finance","Investing","Gold"]
+tags: ["Education","Trading",]
 type: post
 ---
 **Every investment is good**; the question is only how risky it is and what returns can be expected. Of course, the higher the risk, the greater the opportunities for profit as well as the potential for loss, but this type of investment is certainly not one of the highly risky ones.

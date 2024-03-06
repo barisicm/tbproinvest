@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:46+06:00
 author:
 description : "This is meta description"
 image: images/investiranje/pocetak-trgovanja-na-fin-trzistu.jpg
-categories: ["Trading"]
-tags: ["Investing","Financial markets","Trading"]
+categories: ["Investing","Finance"]
+tags: ["Financial markets","Trading"]
 type: post
 ---
 

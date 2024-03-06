@@ -5,8 +5,8 @@ date: 2024-02-04T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kontrola-investiranje.jpg
-categories: ["Finance"]
-tags: ["Education","Investing"]
+categories: ["Finance","Investing"]
+tags: ["Education","Strategy"]
 type: post
 ---
 Our biggest enemies in investing are ourselves.

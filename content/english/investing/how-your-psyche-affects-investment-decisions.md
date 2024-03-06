@@ -5,8 +5,8 @@ date: 2024-02-07T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kako-na-investicijske-odluke.jpg
-categories: ["Finance"]
-tags: ["Education","Investing"]
+categories: ["Finance","Investing"]
+tags: ["Education","Strategy"]
 type: post
 ---
 A topic that is rarely discussed and not given much importance, yet it is actually very important and extensive and can influence your decision-making, and ultimately whether your investment will be successful or not. It is good that it, like everything else, can be practiced and learned to control.

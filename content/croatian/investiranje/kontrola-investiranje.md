@@ -5,8 +5,8 @@ date: 2024-02-04T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kontrola-investiranje.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Strategija"]
 type: post
 ---
 Najveći neprijatelji u investiranju smo zapravo mi sami. 

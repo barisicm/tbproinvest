@@ -5,8 +5,8 @@ date: 2024-02-10T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/ako-ste-skloni-zlatu.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje",]
+categories: ["Investiranje","Zlato",]
+tags: ["Edukacija"]
 type: post
 ---
 **Investitor** ste koji voli plemenite metale i ulažete u zlato ili tek imate u planu ući u poziciju dijelom **Vašeg portfelja**?

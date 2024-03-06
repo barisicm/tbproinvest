@@ -5,8 +5,8 @@ date: 2024-02-02T11:35:34+06:00
 description : "This is meta description"
 author: 
 image: images/investiranje/vlastite-investicije.jpg
-categories: ["Investing"]
-tags: ["Market","Investing","Kapital"]
+categories: ["Investing","Finance"]
+tags: ["Financial markets,"Strategy"]
 type: post
 ---
 Diversification in investing is always important, and a good plan with clear goals is necessary. Here's a brief overview of what can be expected in 2024 in the **capital markets**.

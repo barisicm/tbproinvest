@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kako-postaviti-financijske-ciljeve.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Strategija"]
 type: post
 ---
 Ako nemate postavljene jasne kratkoročne, srednjoročne i dugoročne ciljeve, sigurno ćete više potrošiti i ući u **začarani krug duga** po kreditnoj kartici, koji je svakako najskuplji i najnepovoljniji za Vas.

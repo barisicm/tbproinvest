@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kako-postaviti-financijske-ciljeve.jpg
-categories: ["Finance"]
-tags: ["Education","Investing"]
+categories: ["Finance","Investing"]
+tags: ["Education","Strategy"]
 type: post
 ---
 If you don't have clear short-term, medium-term, and long-term goals, you'll likely spend more and fall into **the vicious cycle of debt**, particularly credit card debt, which is undoubtedly the most expensive and unfavorable option for you.

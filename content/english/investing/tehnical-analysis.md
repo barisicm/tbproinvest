@@ -5,8 +5,8 @@ date: 2024-02-05T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/tehnicka-analiza.jpg
-categories: ["Finance"]
-tags: ["Education","Investing"]
+categories: ["Finance","Investing"]
+tags: ["Education","Trading"]
 type: post
 ---
 A study in itself and a skill best acquired in practice on real examples rather than in theory. 

@@ -5,11 +5,11 @@ date: 2024-02-05T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/najbolje-ulaganja.jpg
-categories: ["Finance"]
-tags: ["Education","Investing"]
+categories: ["Finance","Investing"]
+tags: ["Education","Trading","Strategy"]
 type: post
 ---
-SWe all invest throughout our lives, but each of us usually focuses on one type of investment or maybe several types. 
+We all invest throughout our lives, but each of us usually focuses on one type of investment or maybe several types. 
 
 >We all invest our time, knowledge, money. What makes a difference is how much time we invest, how much we invest in our knowledge, how much money we have, and then what to invest in and how much?
  

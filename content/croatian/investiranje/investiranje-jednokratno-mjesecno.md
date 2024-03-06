@@ -5,8 +5,8 @@ date: 2024-03-01T11:10:46+06:00
 author:
 description : "This is meta description"
 image: images/investiranje/investiranje-jednokratko-mjesecno.jpg
-categories: ["Trgovanje"]
-tags: ["Investiranje","Financijska tržišta","Trgovanje"]
+categories: ["Investiranje"]
+tags: ["Financijska tržišta","Trgovanje"]
 type: post
 ---
 Dva različita pristupa i pitanje koji način je bolji? Oba načina su dobra zato što ulažete i investirate e

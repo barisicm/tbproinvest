@@ -5,8 +5,8 @@ date: 2024-02-06T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/ulaganje-u-zlato-srebro.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje",]
+categories: ["Financije","Investiranje","Zlato"]
+tags: ["Edukacija","Trgovanje"]
 type: post
 ---
 **Svaka investicija je dobra**, pitanje je samo koliko je rizična te koliki prinos se može očekivati. Naravno što je rizik veći veće su mogućnosti za zaradu kao i za mogući gubitak, no ova vrsta ulaganja svakako nije jedna od visoko rizičnih.

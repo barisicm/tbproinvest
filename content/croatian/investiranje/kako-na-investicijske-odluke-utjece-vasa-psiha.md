@@ -5,8 +5,8 @@ date: 2024-02-07T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/kako-na-investicijske-odluke.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Strategija"]
 type: post
 ---
 Tema o kojoj se malo priča i ne pridaje veća važnost, a zapravo je vrlo bitna i opširna te može utjecati na Vaše donošenje odluka, a u konačnici i da li će Vaša investicija biti uspješna ili ne. Dobro je to što se ona kao i sve može vježbati te naučiti kontrolirati.

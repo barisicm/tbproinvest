@@ -5,8 +5,8 @@ date: 2024-02-08T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/ocekivanje-od-zlata.jpg
-categories: ["Finance"]
-tags: ["Education","Investing"]
+categories: ["Finance","Gold","Investing"]
+tags: ["Education","Trading"]
 type: post
 ---
 All economic and geopolitical indicators suggest that the price of gold could continue to rise in the new year. 

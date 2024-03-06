@@ -5,8 +5,8 @@ date: 2024-02-05T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/najbolje-ulaganja.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Trgovanje","Strategija"]
 type: post
 ---
 Svi mi ulažemo tokom naših života, samo što se svatko od nas obično fokusira na jednu vrstu **ulaganja** ili možda nekoliko vrsta.

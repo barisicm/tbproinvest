@@ -5,8 +5,8 @@ date: 2024-02-04T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/nikada-nije-prerano-ili-prekasno-krenuti.jpg
-categories: ["Financije"]
-tags: ["Edukacija","Investiranje"]
+categories: ["Financije","Investiranje"]
+tags: ["Edukacija","Financijska tržišta","Strategija"]
 type: post
 ---
 Svaki početak je težak u svakom poslu pa tako i u svijetu financija. 

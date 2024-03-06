@@ -1,12 +1,12 @@
 ---
-title: "Ff you are inclined towards gold,consider this option as well"
+title: "If you are inclined towards gold,consider this option as well"
 bg_image: images/background/page-title.jpg
 date: 2024-02-10T11:10:07+06:00
 description : "This is meta description"
 author:
 image: images/investiranje/ako-ste-skloni-zlatu.jpg
-categories: ["Finance"]
-tags: ["Education","Investing",]
+categories: ["Investing","Gold"]
+tags: ["Education"]
 type: post
 ---
 Are you an **investor** who enjoys precious metals and invests in gold, or are you just planning to enter into a position as part of your portfolio?
