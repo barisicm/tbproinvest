@@ -1,5 +1,5 @@
 ---
-title: " Novi rast cijene btc-a u 2024."
+title: " Novi rast cijene BTC-a u 2024."
 bg_image: images/background/page-title.jpg
 date: 2024-02-15T11:10:07+06:00
 description : 
