@@ -1,5 +1,5 @@
 ---
-title: "Invetsiranje jednokratno ili mjesečno?"
+title: "Investiranje jednokratno ili mjesečno?"
 bg_image: images/background/page-title.jpg
 date: 2024-03-01T11:10:46+06:00
 author:
