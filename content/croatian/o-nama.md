@@ -11,18 +11,18 @@ philosophy:
   enable : true
   #subtitle : Know About
   title : Tu smo za Vas
-  content : "Društvo je osnovano kako bi preko 20 godina iskustva, znanja i vještina stecenih u investiranju, ulaganju i financijama podijelila sa svima koji žele financijsku neovisnost, slobodu i sigurniju i bezbrižniju buducnost. Razmišljanje danas o vlastitim financijama, edukaciji, unaprjedivanju sebe i investirajući da novac radi za Vas ce Vam to i osigurati. Naša motivacija je uspješno, educirano te bogato i slobodno društvo i pojedinac.
+  content : "Društvo je osnovano kako bi preko 20 godina iskustva, znanja i vještina stečenih u investiranju, ulaganju i financijama podijelila sa svima koji žele financijsku neovisnost, slobodu i sigurniju i bezbrižniju budućnost. Razmišljanje danas o vlastitim financijama, edukaciji, unaprjeđivanju sebe i investirajući da novac radi za Vas će Vam to i osigurati. Naša motivacija je uspješno, educirano te bogato i slobodno društvo i pojedinac.
   
 <br><br>
 
 Naziv: TB PRO INVEST, OBRT ZA USLUGE, VL. TINO BARIŠIĆ <br> 
-Skraceni naziv: TB PRO INVEST <br>
+Skraćeni naziv: TB PRO INVEST <br>
 Adresa sjedišta: HRVATSKE MLADEŽI 28, VELIKA MLAKA <br> 
 E-mail: tbpro.invest@gmail.com <br>
-Internet stranica: https://tbpro.mbarisic.com <br> 
+Internet stranica: https://tbproinvest.com/ <br> 
 Telefon: +385 95 895 8053 <br>
 OIB: 95914186840 <br> 
-Maticni broj: 98718096 <br>
+Matični broj: 98718096 <br>
 Žiro-racun: HR1824840081135371057 <br>
 SWIFT: RZBHHR2X <br>
 "
@@ -33,7 +33,7 @@ ceo:
   enable : false
   bg_image : images/about/ceo.jpg
   title : Tu smo za Vas
-  content : "Društvo je osnovano kako bi preko 20 godina iskustva, znanja i vještina stecenih u investiranju, ulaganju i financijama podijelila sa svima koji žele financijsku neovisnost, slobodu i sigurniju i bezbrižniju buducnost. Razmišljanje danas o vlastitim financijama, edukaciji, unaprjedivanju sebe i investirajuci da novac radi za Vas ce Vam to i osigurati. Naša motivacija je uspješno, educirano te bogato i slobodno društvo i pojedinac.
+  content : "Društvo je osnovano kako bi preko 20 godina iskustva, znanja i vještina stečenih u investiranju, ulaganju i financijama podijelila sa svima koji žele financijsku neovisnost, slobodu i sigurniju i bezbrižniju budućnost. Razmišljanje danas o vlastitim financijama, edukaciji, unaprjeđivanju sebe i investirajući da novac radi za Vas će Vam to i osigurati. Naša motivacija je uspješno, educirano te bogato i slobodno društvo i pojedinac.
 "
   signature : images/about/ceo-signature.png
   name : Tino Barišić

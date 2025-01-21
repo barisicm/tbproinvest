@@ -5,8 +5,8 @@ date: 2024-03-12T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/BTC-rekordna-cijena-od-preko-72.500-USD.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Investiranje","Ulaganje"]
+tags: ["BTC","Kriptovalute","Profit"]
 type: post
 ---
 **Bitcoin** je dosegao novu rekordnu razinu od preko 72.500 USD, a jedan od razloga je i taj što je financijski regulator u Ujedinjenom Kraljevstvu naveo da će dopustiti trgovanje vrijednosnim papirima podržanim kriptovalutama.

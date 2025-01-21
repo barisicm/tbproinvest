@@ -5,8 +5,8 @@ date: 2024-02-07T11:10:07+06:00
 description : 
 author: 
 image: images/kripto-vijesti/monero-i-neizvjesna-buducnost.jpg
-categories: ["Altcoins","Blockchain","Digital asset"]
-tags: ["Bull market"]
+categories: ["Altcoin","Investments","Investment opportunities"]
+tags: ["Altcoin","Exchange", "Crypto market","Cryptocurrency"]
 type: post
 ---
 

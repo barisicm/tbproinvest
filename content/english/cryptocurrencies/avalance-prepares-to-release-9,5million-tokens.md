@@ -5,8 +5,8 @@ date: 2024-02-05T11:10:07+06:00
 description : "AVAX plans to release 9.5 million tokens worth around $320 million on February 22, 2024"
 author: 
 image: images/kripto-vijesti/avax-avalanche.jpg
-categories: ["Altcoins","Blockchain","Digital asset"]
-tags: ["Bull market"]
+categories: ["Altcoin","Investments","Cryptocurrency"]
+tags: ["Altcoin","Investment opportunities"]
 type: post
 ---
 

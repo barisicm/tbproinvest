@@ -5,8 +5,8 @@ date: 2024-02-15T11:10:07+06:00
 description : 
 author: 
 image: images/kripto-vijesti/novi-rast-cijene-btc-u-2024.jpg
-categories: ["Altcoins","Blockchain","Digital asset"]
-tags: ["Bull market"]
+categories: ["Bitcoin","Exchange","Cryptocurrency"]
+tags: ["Profit","Cryptocurrency","Crypto market","BTC"]
 type: post
 ---
 

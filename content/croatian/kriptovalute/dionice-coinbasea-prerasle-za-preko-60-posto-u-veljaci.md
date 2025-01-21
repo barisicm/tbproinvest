@@ -5,8 +5,8 @@ date: 2024-03-06T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/coinbase.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Kriptovalute","Burza","Investiranje","Burza"]
+tags: ["Altcoin","Investicije","Burza","Kriptovalute","Bitcoin"]
 type: post
 ---
 Druga najveća kripto burza, **Coinbase**, u uzletu i eksploziji potražnje za njihovim dionicama.

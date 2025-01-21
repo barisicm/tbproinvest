@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:07+06:00
 description : "Expectations from the crypto market and bitcoin in 2024"
 author: 
 image: images/kripto-vijesti/ocekivanja-od-kripto-trzista.jpg
-categories: ["Bitcoin","Crypto market","ETF fonds","Expectations","Digital assets"]
-tags: ["Bull market", "Crypto market", "Expectations", "Digital assets"]
+categories: ["Bitcoin","Crypto market","ETF","Investment opportunities"]
+tags: ["Profit", "Crypto market", "Cryptocurrency"]
 type: post
 ---
 

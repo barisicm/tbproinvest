@@ -5,8 +5,8 @@ date: 2024-03-11T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/south-korea.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Kriptovalute","Investiranje","Fondovi","Diverzifikacija"]
+tags: ["BTC","Burza","Fondovi","Investicije"]
 type: post
 ---
 Vlada **Republike Koreje** razmatraju mogućnost spot ETF-a u svojoj zemlji.

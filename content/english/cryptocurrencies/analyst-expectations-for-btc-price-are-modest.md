@@ -5,8 +5,8 @@ date: 2024-02-13T11:10:07+06:00
 description : 
 author: 
 image: images/kripto-vijesti/ocekivanja-analiticara.jpg
-categories: ["Altcoins","Blockchain","Digital asset"]
-tags: ["Bull market"]
+categories: ["Bitcoin","Investments","Cryptocurrency"]
+tags: ["BTC","Investments","Analysis"]
 type: post
 ---
 

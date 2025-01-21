@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:07+06:00
 description : "Inflows from etf money to btc and cripto market"
 author: 
 image: images/kripto-vijesti/kriptoetf.jpg
-categories: ["Etf"]
-tags: ["Bull market","BTC"]
+categories: ["Bitcoin","Cryptocurrency","ETF","Investment opportunities"]
+tags: ["Cryptocurrency","BTC","Profit"]
 type: post
 ---
 

@@ -16,6 +16,6 @@ type : service
 
 ### Osnove tehničke analize
 
-Crtanje i prepoznavanje grafikona, isčitavanje prema dosadašnjem smjeru kretanja određene investicije kako će se u budućnosti kretati i u kojem smjeru. Na osnovu toga Vaša uspješnost u trgovanju će se povećati kao i broj vaših uspješnih trgovanja na osnovu znanja tehničke analize.
+Crtanje i prepoznavanje različitih vrsta grafikona, iščitavanje prema dosadašnjem trgovanju smjer u kojem će se kretati dionice, tržište ili kriptovalute u budućnosti. Vrlo važno za biti uspješan i profitabilan investitor trgovac jer će o tome ovisiti i Vaš krajnji rezultat te će se povećati broj uspješnih trgovanja, a ujedno i smanjiti trgovanja u kojima ste izgubili. 
 
-Usluga se naplaćuje po satu edukacije.
+Usluga se naplaćuje po dogovoru ili satu edukacije.

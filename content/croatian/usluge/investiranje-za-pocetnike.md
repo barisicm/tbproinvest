@@ -16,6 +16,6 @@ type : service
 
 ### Investiranje za početnike
 
-Kako i sa kojim sredstvima krenuti i sve vezano uz investiranje. Koje sve postoje mogućnosti za investirati u što, koliko i kako. Koji su rizici i mogući ostvareni prinosi kao i postavljanje jasnih i ostvarivih ciljeva u razumnim rokovima.
+Kako i sa kojim sredstvima krenuti i sve vezano uz investiranje. Koje sve postoje mogućnosti za investirati postoje i u što, koliko i kako investirati. Koji su rizici i mogući ostvareni prinosi kao i postavljanje jasnih i ostvarivih ciljeva u razumnim rokovima.
 
-Usluga se naplaćuje po satu edukacije.
+Usluga se naplaćuje po dogovoru ili satu edukacije.

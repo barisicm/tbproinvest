@@ -5,8 +5,8 @@ date: 2024-02-29T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/kupljeno-3000-btc-a-i-ostvaren-prihod-od-preko-70.jpg
-categories: ["Altcoins","Blockchain","Digital asset"]
-tags: ["Bull market"]
+categories: ["Bitcoin","Cryptocurrency","ETF","Investment opportunities"]
+tags: ["Cryptocurrency","BTC","Profit"]
 type: post
 ---
 

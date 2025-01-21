@@ -5,8 +5,8 @@ date: 2024-02-20T11:10:07+06:00
 description : "Coinbase have the lowest level of Bitcoin since 2015"
 author: 
 image: images/kripto-vijesti/coinbase.jpg
-categories: ["Coinbase"]
-tags: ["Bull market","Bitcoin"]
+categories: ["Exchange","Crypto market","Bitcoin","Cryptocurrency"]
+tags: ["Crypto market","BTC","Exchange"]
 type: post
 ---
 

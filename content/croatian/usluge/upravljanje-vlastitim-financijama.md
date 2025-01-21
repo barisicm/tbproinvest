@@ -16,6 +16,6 @@ type : service
 
 ### Upravljanje vlastitim financijama
 
-Teško Vam je raspolagati vlastitim financijama?  Ne uspijevate ulagati? Imate dugovanja? Koristite kreditne kartice? Minuse po računima? A imate dobra primanja? Šansa je velika da radite greške kao i svi, ne očajavajte nije ništa strašno niti ne rješivo. Možemo Vam pomoći postaviti stvari financijski na mjesto te da nemate brigu o Vašim osobnim financijama. Ostvarite financijsku slobodu.
+Teško Vam je raspolagati vlastitim financijama?  Ne uspijevate ulagati? Imate dugovanja? Koristite kreditne kartice? Minuse po računima? Imate dobra primanja? Šansa je velika da radite niz malih pogrešaka kao i svatko od nas. Ne očajavajte, nije ništa strašno niti ne rješivo. Možemo Vam pomoći postaviti stvari financijski na mjesto te da nemate brigu o Vašim osobnim financijama. Ostvarite financijsku slobodu i život bez stresa.
 
-Usluga se naplaćuje po satu edukacije.
+Usluga se naplaćuje po dogovoru ili satu edukacije.

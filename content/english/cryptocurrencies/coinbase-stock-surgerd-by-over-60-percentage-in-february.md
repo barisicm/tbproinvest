@@ -5,8 +5,8 @@ date: 2024-03-06T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/coinbase.jpg
-categories: ["Altcoins","Blockchain","Digital assets"]
-tags: ["Bull market"]
+categories: ["Altcoin","Exchange","Cryptocurrency"]
+tags: ["Altcoin","Exchange","Cryptocurrency","Profit"]
 type: post
 ---
 The second-largest crypto exchange, **Coinbase**, is experiencing a surge and explosion in demand for their shares.

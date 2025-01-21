@@ -5,8 +5,8 @@ date: 2024-03-11T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/blackRock-vec-posjeduje.jpg
-categories: ["Altcoins","Blockchain","Digital assets"]
-tags: ["Bull market"]
+categories: ["Bitcoin","Cryptocurrency","ETF","Investment opportunities"]
+tags: ["Cryptocurrency","BTC","Profit"]
 type: post
 ---
 **BlackRock's ETF** already owns over 196,000 BTC, surpassing **MicroStrategy**, which has collected 193,000 pieces so far but over a much longer period.

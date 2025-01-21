@@ -5,8 +5,8 @@ date: 2025-01-03T11:10:07+06:00
 description : "Expectations for Bitcoin in 2025"
 author: 
 image: images\kripto-vijesti\ocekivanja-od-bitcoina-2025.jpg
-categories: ["Bitcoin","Crypto market","Expectations","Digital assets"]
-tags: ["Crypto market", "Expectations", "Digital assets"]
+categories: ["Bitcoin","Crypto market","ETF","Investment opportunities"]
+tags: ["Profit", "Crypto market", "Cryptocurrency"]
 type: post
 ---
 

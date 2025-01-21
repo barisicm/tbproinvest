@@ -5,8 +5,8 @@ date: 2024-03-05T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/novi-ath-na-bitcoinu.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Banke","Kriptovalute"]
+tags: ["BTC","Kriptovalute","Investicije"]
 type: post
 ---
 

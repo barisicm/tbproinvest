@@ -18,5 +18,5 @@ type : service
 
 Nudimo  usluge pomoći kod otvaranja i postavljanja Vašeg računa, što Vam je sve potrebno, kako kupiti i prodati te sve opcije koje možete koristiti. Koje platforme koristiti za koju vrstu investicije. Online edukacija putem video poziva, telefonski ili uživo.
 
-Usluga se naplaćuje po satu edukacije.
+Usluga se naplaćuje po dogovoru ili satu edukacije.
 

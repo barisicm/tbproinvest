@@ -5,8 +5,8 @@ date: 2024-02-02T11:10:07+06:00
 description : "Najveća svjetska kripto burza Binance dobila rekordnu kaznu"
 author: 
 image: images/kripto-vijesti/binance-kazna.jpg
-categories: ["Binance"]
-tags: ["Binance", "Kripto market"]
+categories: ["Burza","Bitcoin","Kriptovalute"]
+tags: ["Burza", "Kriptovalute"]
 type: post
 ---
 

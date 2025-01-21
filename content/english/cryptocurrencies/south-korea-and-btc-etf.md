@@ -5,8 +5,8 @@ date: 2024-03-11T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/south-korea.jpg
-categories: ["Altcoins","Blockchain","Digital assets"]
-tags: ["Bull market"]
+categories: ["Bitcoin","Cryptocurrency","ETF","Investment opportunities"]
+tags: ["Cryptocurrency","BTC","Profit"]
 type: post
 ---
 The government of the **Republic of Korea** is considering the possibility of introducing spot ETFs in their country.

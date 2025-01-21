@@ -5,8 +5,8 @@ date: 2024-02-10T11:10:07+06:00
 description : 
 author: 
 image: images/kripto-vijesti/etherium-dosegao-novi-rekord.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Ulaganje","Kriptovalute"]
+tags: ["Altcoin","Kriptovalute"]
 type: post
 ---
 

@@ -5,8 +5,8 @@ date: 2024-02-05T11:10:07+06:00
 description : "AVAX planira oslobodite 9,5 milijuna tokena u vrijednosti oko 320 milijuna dolara 22.02.2024"
 author: 
 image: images/kripto-vijesti/avax-avalanche.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Kriptovalute","Investiranje","Ulaganje","Altcoin","Diverzifikacija"]
+tags: ["Investicije","Kriptovalute","Altcoin"]
 type: post
 ---
 

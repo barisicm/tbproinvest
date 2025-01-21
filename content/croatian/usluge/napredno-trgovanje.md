@@ -16,5 +16,6 @@ type : service
 
 ### Napredno trgovanje
 
-Edukacija o raziličitim tipovima i načinima trgovanja na burzama. Što želite postići te da li želite biti dnevni trgovac ili povremeni?  Kako prepoznati priliku kada se ukaže i dobiti sve potrebne informacije kako biti uspješan u trgovanju sa vrijednosnicama. Te biti uspješniji od fondova koji su veliki i tromi. Imati čvrste ruke kada treba i izolirati vanjske čimbenike sa tržišta.
-Usluga se naplaćuje po satu edukacije.
+Edukacija o raziličitim tipovima i načinima trgovanja na burzama. Što želite postići te da li želite biti dnevni trgovac ili povremeni?  Kako prepoznati priliku kada se ukaže i dobiti sve potrebne informacije kako biti uspješan u trgovanju sa vrijednosnicama i kriptovalutama. Te biti uspješniji od fondova koji su veliki i tromi. Imati čvrste ruke kada je potrebno i izolirati vanjske čimbenike na tržištima.
+
+Usluga se naplaćuje po dogovoru ili satu edukacije.

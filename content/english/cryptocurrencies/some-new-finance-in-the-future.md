@@ -5,8 +5,8 @@ date: 2024-03-05T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/neke-nove-financije-u-buducnosti.jpg
-categories: ["Altcoins","Blockchain","Digital assets"]
-tags: ["Bull market"]
+categories: ["Altcoin","Investments","Investment opportunities"]
+tags: ["Altcoin","Exchange", "Crypto market","Profit"]
 type: post
 ---
 For a long time, most people denied and refused to accept the following fact, which is that cryptocurrencies are here and they are here to stay. 

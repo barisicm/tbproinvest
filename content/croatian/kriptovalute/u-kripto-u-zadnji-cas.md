@@ -5,8 +5,8 @@ date: 2024-02-13T11:10:07+06:00
 description : 
 author: 
 image: images/kripto-vijesti/u-kripto-u-zadnji-cas.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Kriptovalute","Diverzifikacija"]
+tags: ["Kriptovalute","BTC","Investicije"]
 type: post
 ---
 

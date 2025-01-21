@@ -5,8 +5,8 @@ date: 2024-02-02T11:10:07+06:00
 description : "Binance, the world's largest crypto exchange will pay the largest fine in history"
 author: 
 image: images/kripto-vijesti/binance-kazna.jpg
-categories: ["Binance","SEC","Crypto market"]
-tags: ["Binance", "Crypto market"]
+categories: ["Exchange","Cryptocurrency","Crypto market"]
+tags: ["Cryptocurrency","Crypto market"]
 type: post
 ---
  

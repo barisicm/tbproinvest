@@ -5,8 +5,8 @@ date: 2024-03-05T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/neke-nove-financije-u-buducnosti.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Kriptovalute","Investiranje","Diverzifikacija"]
+tags: ["Investicije","Kriptovalute"]
 type: post
 ---
 Dugo je većina negirala i odbijala prihvatiti sljedeću činjenicu, a to je da su kriptovalute tu i da su tu da ostanu.

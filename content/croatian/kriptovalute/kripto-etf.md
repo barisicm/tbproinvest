@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:07+06:00
 description : "Priljev etf novca na kripto tržište i u bitcoin"
 author: 
 image: images/kripto-vijesti/kriptoetf.jpg
-categories: ["ETF"]
-tags: ["Bull market","BTC"]
+categories: ["Fondovi","ETF","Investiranje","Diverzifikacija"]
+tags: ["Fondovi","BTC","Kriptovalute"]
 type: post
 ---
 Sjedinjene Američke Države su najveći dom i to za preko 3000 **ETF** fondova prema podatcima iz 2023. godine.

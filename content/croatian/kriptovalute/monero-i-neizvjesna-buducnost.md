@@ -5,8 +5,8 @@ date: 2024-02-07T11:10:07+06:00
 description : 
 author: 
 image: images/kripto-vijesti/monero-i-neizvjesna-buducnost.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Investiranje","Kriptovalute","Burza"]
+tags: ["Burza","Kriptovalute","Altcoin"]
 type: post
 ---
 
@@ -19,7 +19,7 @@ Cijena je naravno uzdrmana sa ovom viješću, a također kako nevolja nikada ne 
 
 Cijena je tokom 06.02.2024. bila u slobodnom pada od čak preko 30%, no krajem dana je dozvoljeno povlačenje Monera na druge XMR novčanike što je 07.02.2024 zaustavilo slobodan pad i oporavilo cijenu za 20-tak posto.
 
-Kakva će cijena biti u narednih desetak dana dok još bude dozvoljeno trgovanje na Binance kripto burzi ostaje za vidjeti ali svako budite oprezni i ne izlažite se pre velikom riziku.
+Kakva će cijena biti u narednih desetak dana dok još bude dozvoljeno trgovanje na Binance kripto burzi ostaje za vidjeti, ali svako budite oprezni i ne izlažite se pre velikom riziku.
 
 
 

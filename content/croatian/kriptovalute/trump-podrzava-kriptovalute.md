@@ -5,8 +5,8 @@ date: 2024-03-13T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/trump-podrzava-kriptovalute.jpg
-categories: ["Altcoins","Blockchain","Digitalna imovina"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Kriptovalute"]
+tags: ["Kriptovalute","BTC","Profit"]
 type: post
 ---
 Nije mala stvar da jedan bivši, a vrlo lako moguće i budući **američki predsjednik Donald Trump** javno istupi i podrži kriptovalute.

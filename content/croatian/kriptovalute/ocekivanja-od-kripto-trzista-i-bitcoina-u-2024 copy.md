@@ -5,8 +5,8 @@ date: 2024-02-01T11:10:07+06:00
 description : "Očekivanja od kripta i bitcoina u 2024. godini"
 author: 
 image: images/kripto-vijesti/ocekivanja-od-kripto-trzista.jpg
-categories: ["Bitcoin","ETF fondovi","Digitalna imovina"]
-tags: ["Bull market", "Kripto market","Digitalna imovina"]
+categories: ["Bitcoin","Fondovi","Investiranje"]
+tags: ["BTC", "Kriptovalute","Profit"]
 type: post
 ---
 

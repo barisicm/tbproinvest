@@ -5,8 +5,8 @@ date: 2024-03-12T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/BTC-rekordna-cijena-od-preko-72.500-USD.jpg
-categories: ["Altcoins","Blockchain","Digital assets"]
-tags: ["Bull market"]
+categories: ["Bitcoin","Exchange","Cryptocurrency"]
+tags: ["Profit","Cryptocurrency","Crypto market","BTC"]
 type: post
 ---
 **Bitcoin** has reached a new record level of over $72,500, and one of the reasons is that the financial regulator in the United Kingdom has stated that it will allow trading of securities backed by cryptocurrencies.

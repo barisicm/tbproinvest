@@ -5,8 +5,8 @@ date: 2024-03-13T11:10:07+06:00
 description :
 author: 
 image: images/kripto-vijesti/trump-podrzava-kriptovalute.jpg
-categories: ["Altcoins","Blockchain","Digital assets"]
-tags: ["Bull market"]
+categories: ["Altcoin","Bitcoin","Investments","Investment opportunities","Cryptocurrency"]
+tags: ["Profit","Cryptocurrency","Crypto market","BTC"]
 type: post
 ---
 It's no small matter that a former, and very possibly future, **American president, Donald Trump**, publicly speaks out in support of cryptocurrencies.

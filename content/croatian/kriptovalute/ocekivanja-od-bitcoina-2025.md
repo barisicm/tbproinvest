@@ -5,8 +5,8 @@ date: 2025-01-03T11:10:07+06:00
 description : "Očekivanja od bitcoina u 2025."
 author: 
 image: images\kripto-vijesti\ocekivanja-od-bitcoina-2025.jpg
-categories: ["Bitcoin","Investiranje","Digitalna imovina"]
-tags: ["Bull market", "Bitcoin","Digitalna imovina"]
+categories: ["Bitcoin","Investiranje","Kripotvalute","Ulaganje"]
+tags: ["Investicije", "BTC","Kriptovalute"]
 type: post
 ---
 

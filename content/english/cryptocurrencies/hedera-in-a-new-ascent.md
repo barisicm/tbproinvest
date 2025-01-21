@@ -5,8 +5,8 @@ date: 2024-02-23T11:10:07+06:00
 description : "Hederahasgraph ascent"
 author: 
 image: images/vijesti/hedera-u-novom-uzletu.jpg
-categories: ["Altcoins"]
-tags: ["Bull market"]
+categories: ["Altcoin","Investments","Investment opportunities"]
+tags: ["Altcoin","Profit", "Crypto market","Cryptocurrency"]
 type: post
 ---
 
